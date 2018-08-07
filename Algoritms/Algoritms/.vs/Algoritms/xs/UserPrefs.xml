@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{1F06D955-2799-4FBE-A4B9-6197326C3BBA}|Default">
-  <MonoDevelop.Ide.ItemProperties.Algoritms PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.ItemProperties.Algoritms PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Are the numbers in order/Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="10" Column="10" />
+      <File FileName="Are the numbers in order/Kata.cs" Line="16" Column="16" />
+      <File FileName="Are the numbers in order/Program.cs" Line="10" Column="47" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

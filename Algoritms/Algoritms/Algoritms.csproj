@@ -32,8 +32,12 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Are the numbers in order\Kata.cs" />
+    <Compile Include="Are the numbers in order\Program.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Are the numbers in order\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
