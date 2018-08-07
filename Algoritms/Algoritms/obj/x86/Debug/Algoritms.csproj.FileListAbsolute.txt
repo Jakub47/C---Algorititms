@@ -1,0 +1,6 @@
+/home/ragnus/Desktop/Algorithms/C---Algorititms/Algoritms/Algoritms/bin/Debug/Algoritms.exe
+/home/ragnus/Desktop/Algorithms/C---Algorititms/Algoritms/Algoritms/bin/Debug/Algoritms.pdb
+/home/ragnus/Desktop/Algorithms/C---Algorititms/Algoritms/Algoritms/obj/x86/Debug/Algoritms.csprojResolveAssemblyReference.cache
+/home/ragnus/Desktop/Algorithms/C---Algorititms/Algoritms/Algoritms/obj/x86/Debug/Algoritms.csproj.CoreCompileInputs.cache
+/home/ragnus/Desktop/Algorithms/C---Algorititms/Algoritms/Algoritms/obj/x86/Debug/Algoritms.exe
+/home/ragnus/Desktop/Algorithms/C---Algorititms/Algoritms/Algoritms/obj/x86/Debug/Algoritms.pdb
